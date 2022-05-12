@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://igorvel0so.github.io/MJPU/sitemap.xml

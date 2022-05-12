@@ -1,2 +1,0 @@
-# MJPU
-MJPU
