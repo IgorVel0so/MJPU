@@ -10,6 +10,24 @@
     },
     "items": [
         {
+            "id": "https://igorvel0so.github.io/MJPU/bens-essenciais-necessarios.html",
+            "url": "https://igorvel0so.github.io/MJPU/bens-essenciais-necessarios.html",
+            "title": "Bens Essenciais Necessários",
+            "summary": " ",
+            "content_html": "<figure class=\"post__image post__image--center\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/MJPU/media/posts/9/1.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-2xl.png 1600w\"  alt=\"\" width=\"940\" height=\"788\"></figure><figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/MJPU/media/posts/9/2.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-2xl.png 1600w\"  alt=\"\" width=\"940\" height=\"788\"></figure>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://igorvel0so.github.io/MJPU/media/posts/9/3.png\" sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-2xl.png 1600w\"  alt=\"\" width=\"940\" height=\"788\"></figure>",
+            "image": "https://igorvel0so.github.io/MJPU/media/posts/9/IMG-20220313-WA0006.jpg",
+            "author": {
+                "name": "MJPU"
+            },
+            "tags": [
+                   "Ucrania",
+                   "Notícias",
+                   "Donativos"
+            ],
+            "date_published": "2022-05-13T22:12:12+01:00",
+            "date_modified": "2022-05-13T22:23:55+01:00"
+        },
+        {
             "id": "https://igorvel0so.github.io/MJPU/feira-saberes-e-sabores-xii-em-agueda.html",
             "url": "https://igorvel0so.github.io/MJPU/feira-saberes-e-sabores-xii-em-agueda.html",
             "title": "Feira Saberes e Sabores XII em Águeda",
@@ -20,10 +38,11 @@
                 "name": "MJPU"
             },
             "tags": [
+                   "Notícias",
                    "Eventos"
             ],
             "date_published": "2022-05-12T02:44:47+01:00",
-            "date_modified": "2022-05-12T02:49:50+01:00"
+            "date_modified": "2022-05-13T01:04:36+01:00"
         },
         {
             "id": "https://igorvel0so.github.io/MJPU/parcerias.html",
@@ -97,7 +116,7 @@
             "tags": [
             ],
             "date_published": "2022-05-12T01:07:14+01:00",
-            "date_modified": "2022-05-12T01:07:14+01:00"
+            "date_modified": "2022-05-13T01:04:09+01:00"
         }
     ]
 }

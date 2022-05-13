@@ -3,12 +3,38 @@
     <title>MJPU</title>
     <link href="https://igorvel0so.github.io/MJPU/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/MJPU" />
-    <updated>2022-05-13T00:57:09+01:00</updated>
+    <updated>2022-05-13T22:23:55+01:00</updated>
     <author>
         <name>MJPU</name>
     </author>
     <id>https://igorvel0so.github.io/MJPU</id>
 
+    <entry>
+        <title>Bens Essenciais Necessários</title>
+        <author>
+            <name>MJPU</name>
+        </author>
+        <link href="https://igorvel0so.github.io/MJPU/bens-essenciais-necessarios.html"/>
+        <id>https://igorvel0so.github.io/MJPU/bens-essenciais-necessarios.html</id>
+            <category term="Ucrania"/>
+            <category term="Notícias"/>
+            <category term="Donativos"/>
+
+        <updated>2022-05-13T22:23:55+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/9/IMG-20220313-WA0006.jpg" alt="" />
+                     
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://igorvel0so.github.io/MJPU/media/posts/9/IMG-20220313-WA0006.jpg" alt="" />
+                <figure class="post__image post__image--center"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/9/1.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/1-2xl.png 1600w"  alt="" width="940" height="788"></figure><figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/9/2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/2-2xl.png 1600w"  alt="" width="940" height="788"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/9/3.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/9/responsive/3-2xl.png 1600w"  alt="" width="940" height="788"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Feira Saberes e Sabores XII em Águeda</title>
         <author>
@@ -16,9 +42,10 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/feira-saberes-e-sabores-xii-em-agueda.html"/>
         <id>https://igorvel0so.github.io/MJPU/feira-saberes-e-sabores-xii-em-agueda.html</id>
+            <category term="Notícias"/>
             <category term="Eventos"/>
 
-        <updated>2022-05-12T02:49:50+01:00</updated>
+        <updated>2022-05-13T01:04:36+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/7/279578782_5210173402358791_4387055630113174501_n.jpg" alt="" />
@@ -135,7 +162,7 @@
         <link href="https://igorvel0so.github.io/MJPU/missao.html"/>
         <id>https://igorvel0so.github.io/MJPU/missao.html</id>
 
-        <updated>2022-05-12T01:07:14+01:00</updated>
+        <updated>2022-05-13T01:04:09+01:00</updated>
             <summary></summary>
         <content></content>
     </entry>
