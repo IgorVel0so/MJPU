@@ -3,12 +3,39 @@
     <title>MJPU Águeda e Albergaria</title>
     <link href="https://igorvel0so.github.io/MJPU/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/MJPU" />
-    <updated>2022-05-16T23:47:15+01:00</updated>
+    <updated>2022-05-19T03:00:14+01:00</updated>
     <author>
         <name>MJPU</name>
     </author>
     <id>https://igorvel0so.github.io/MJPU</id>
 
+    <entry>
+        <title>Relatórios</title>
+        <author>
+            <name>MJPU</name>
+        </author>
+        <link href="https://igorvel0so.github.io/MJPU/relatorios.html"/>
+        <id>https://igorvel0so.github.io/MJPU/relatorios.html</id>
+            <category term="Ucrania"/>
+            <category term="Donativos"/>
+
+        <updated>2022-05-19T03:00:14+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/10/Ucrania-Humanitaria.png" alt="" />
+                    Relatórios de Ajuda Humanitária Fevereiro a Abril 2022 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://igorvel0so.github.io/MJPU/media/posts/10/Ucrania-Humanitaria.png" alt="" />
+                <p>Relatórios de Ajuda Humanitária</p>
+<ul>
+<li><a href="https://igorvel0so.github.io/MJPU/Relatório Humanitário Fevereiro-Abril 2022 (Público).pdf" target="_blank" rel="noopener noreferrer">Fevereiro a Abril 2022</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Bens Essenciais Necessários</title>
         <author>
