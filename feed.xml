@@ -3,7 +3,7 @@
     <title>MJPU Águeda e Albergaria</title>
     <link href="https://igorvel0so.github.io/MJPU/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/MJPU" />
-    <updated>2022-07-02T18:23:52+01:00</updated>
+    <updated>2022-07-02T18:33:24+01:00</updated>
     <author>
         <name>MJPU</name>
     </author>
@@ -153,9 +153,10 @@
         <link href="https://igorvel0so.github.io/MJPU/relatorios.html"/>
         <id>https://igorvel0so.github.io/MJPU/relatorios.html</id>
             <category term="Ucrania"/>
+            <category term="Relatórios e Reports"/>
             <category term="Donativos"/>
 
-        <updated>2022-06-18T19:44:27+01:00</updated>
+        <updated>2022-07-02T18:33:24+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/10/Ucrania-Humanitaria.png" alt="" />
