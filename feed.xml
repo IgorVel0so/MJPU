@@ -1,34 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>MJPU Águeda e Albergaria</title>
     <link href="https://igorvel0so.github.io/MJPU/feed.xml" rel="self" />
     <link href="https://igorvel0so.github.io/MJPU" />
-    <updated>2023-01-01T18:49:48+00:00</updated>
+    <updated>2023-02-08T21:37:42+00:00</updated>
     <author>
         <name>MJPU</name>
     </author>
     <id>https://igorvel0so.github.io/MJPU</id>
 
     <entry>
-        <title>Feliz Ano Novo!</title>
+        <title>Feliz Ano Novo</title>
         <author>
             <name>MJPU</name>
         </author>
         <link href="https://igorvel0so.github.io/MJPU/feliz-ano-novo.html"/>
         <id>https://igorvel0so.github.io/MJPU/feliz-ano-novo.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/27/2a4dbb_541d27d0b228424caf2e4b8252a9ca25~mv2.jpg" medium="image" />
             <category term="Ucrania"/>
 
-        <updated>2023-01-01T18:49:32+00:00</updated>
+        <updated>2023-02-08T21:37:42+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/28/2a4dbb_541d27d0b228424caf2e4b8252a9ca25~mv2.jpg" alt="" />
-                     Às 22:00 horas de Portugal será 00:00 meia noite na Ucrânia. Bebam um copo a um dos maiores desejos de 2023: a Vitória da Ucrânia! Na MJPU bebemos um copo a todos os Ucranianos, a todos os heróis, mas também a você que nos&hellip;
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/27/2a4dbb_541d27d0b228424caf2e4b8252a9ca25~mv2.jpg" alt="" />
+                    Às 22:00 horas de Portugal será 00:00 meia noite na Ucrânia. Bebam um copo a um dos maiores desejos de 2023: a Vitória da Ucrânia! Na MJPU bebemos um copo a todos os Ucranianos, a todos os heróis, mas também a você que nos tem&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/28/2a4dbb_541d27d0b228424caf2e4b8252a9ca25~mv2.jpg" alt="" />
-                <div class="" dir="auto">
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/27/2a4dbb_541d27d0b228424caf2e4b8252a9ca25~mv2.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__entry u-inner">
+<div dir="auto">
 <div id="jsc_c_2b" class="x1iorvi4 x1pi30zi x1l90r2v x1swvt13" data-ad-comet-preview="message" data-ad-preview="message">
 <div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
 <div class="xu06os2 x1ok221b">
@@ -45,6 +47,7 @@
 </div>
 </div>
 </div>
+</div>
             ]]>
         </content>
     </entry>
@@ -55,19 +58,21 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/feirinha-de-natal-em-albergaria-a-velha.html"/>
         <id>https://igorvel0so.github.io/MJPU/feirinha-de-natal-em-albergaria-a-velha.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/26/Cartaz-Venda-Albergaria-g.png" medium="image" />
+            <category term="Ucrania"/>
+            <category term="Notícias"/>
             <category term="Eventos"/>
-            <category term="Donativos"/>
 
-        <updated>2023-01-01T18:49:48+00:00</updated>
+        <updated>2023-02-08T21:36:09+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/27/Cartaz-Venda-Albergaria-g.png" alt="" />
-                     No sábado, dia 10 de dezembro, das 7h30 até às 12h30, realiza-se no Mercado Municipal de Albergaria-a-Velha uma Feirinha de Natal de venda de artesanato de Natal e pastelaria ucraniana: doces e salgados. Os organizadores do evento (a Câmara Municipal de Albergaria-a-Velha, a Associação&hellip;
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/26/Cartaz-Venda-Albergaria-g.png" alt="" />
+                    No sábado, dia 10 de dezembro, das 7h30 até às 12h30, realiza-se no Mercado Municipal de Albergaria-a-Velha uma Feirinha de Natal de venda de artesanato de Natal e pastelaria ucraniana: doces e salgados. Os organizadores do evento (a Câmara Municipal de Albergaria-a-Velha, a Associação dos&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/27/Cartaz-Venda-Albergaria-g.png" alt="" />
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/26/Cartaz-Venda-Albergaria-g.png" class="type:primaryImage" alt="" /></p>
                 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xdj266r x126k92a">
 <div dir="auto">No sábado, dia 10 de dezembro, das 7h30 até às 12h30, realiza-se no <strong>Mercado Municipal de Albergaria-a-Velha</strong> uma Feirinha de Natal de venda de artesanato de Natal e pastelaria ucraniana: doces e salgados. Os organizadores do evento (a Câmara Municipal de Albergaria-a-Velha, a Associação dos Ucranianos em Portugal - Subdelegação de Águeda, e o Movimento Juntos pela Ucrânia - MJPU) têm como objetivo a angariação de fundos para a roupa interior térmica e medicamentos necessários <a tabindex="-1"></a>para os defensores da Ucrânia.</div>
 <div dir="auto"> </div>
@@ -79,8 +84,6 @@
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
 <div dir="auto">Glória à Ucrânia!</div>
 <div dir="auto">Glória aos Heróis!</div>
-<div dir="auto"> </div>
-<div dir="auto"> </div>
 </div>
             ]]>
         </content>
@@ -92,21 +95,21 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/desenhos-chegaram-a-ucrania.html"/>
         <id>https://igorvel0so.github.io/MJPU/desenhos-chegaram-a-ucrania.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/25/317610554_5567715396678603_4435823197791179110_n.jpg" medium="image" />
             <category term="Ucrania"/>
-            <category term="Relatórios e Reports"/>
             <category term="Notícias"/>
             <category term="Donativos"/>
 
-        <updated>2022-12-03T23:54:13+00:00</updated>
+        <updated>2023-02-08T21:34:26+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/26/317610554_5567715396678603_4435823197791179110_n.jpg" alt="" />
-                    As crianças da escola Ucraniana de Águeda fizeram muitos desenhos! Quando é enviada ajuda humanitária nos vários camiões e carrinhas, estes desenhos vão também e são entregues às forças Ucranianas, para os inspirar e encher o coração! - MJPU __ 
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/25/317610554_5567715396678603_4435823197791179110_n.jpg" alt="" />
+                    As crianças da escola Ucraniana de Águeda fizeram muitos desenhos! Quando é enviada ajuda humanitária nos vários camiões e carrinhas, estes desenhos vão também e são entregues às forças Ucranianas, para os inspirar e encher o coração! - MJPU __ Маємо звіт від наших котиків&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/26/317610554_5567715396678603_4435823197791179110_n.jpg" alt="" />
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/25/317610554_5567715396678603_4435823197791179110_n.jpg" class="type:primaryImage" alt="" /></p>
                 <p>As crianças da escola Ucraniana de Águeda fizeram muitos desenhos! Quando é enviada ajuda humanitária nos vários camiões e carrinhas, estes desenhos vão também e são entregues às forças Ucranianas, para os inspirar e encher o coração!</p>
 <p>- MJPU</p>
 <p>__</p>
@@ -115,26 +118,35 @@
 <div class="x78zum5 xdt5ytf xz62fqu x16ldp7u">
 <div class="xu06os2 x1ok221b">
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xdj266r x126k92a">
-<div dir="auto">Маємо звіт від наших котиків <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5e/1/16/1f63c.png" data-is-external-image="true"  alt="😼" width="16" height="16"></span>. Хлопці все отримали та дуже вдячні за нашу підтримку. Особливо хочу подякувати всім діточкам української школи в м. Agueda, які <a tabindex="-1"></a>намалювали такі дивовижні малюнки, та які зараз гріють душу нашим солдатам навіть у офіцерському бліндажу <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/1f4aa.png" data-is-external-image="true"  alt="💪" width="16" height="16"></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" data-is-external-image="true"  alt="🇺🇦" width="16" height="16"></span>.</div>
-<div dir="auto">Долучайтеся, продовжуємо нашу справу <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" data-is-external-image="true"  alt="🇺🇦" width="16" height="16"></span></div>
+<div dir="auto">Маємо звіт від наших котиків <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/t5e/1/16/1f63c.png" alt="😼" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span>. Хлопці все отримали та дуже вдячні за нашу підтримку. Особливо хочу подякувати всім діточкам української школи в м. Agueda, які <a tabindex="-1"></a>намалювали такі дивовижні малюнки, та які зараз гріють душу нашим солдатам навіть у офіцерському бліндажу <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/1f4aa.png" alt="💪" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" alt="🇺🇦" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span>.</div>
+<div dir="auto">Долучайтеся, продовжуємо нашу справу <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" alt="🇺🇦" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span></div>
 <div dir="auto">Пишіть в приват, буду рада відповісти.</div>
-<div dir="auto">Разом до перемоги <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" data-is-external-image="true"  alt="🇺🇦" width="16" height="16"></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img loading="lazy" src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" data-is-external-image="true"  alt="🇺🇦" width="16" height="16"></span></div>
+<div dir="auto">Разом до перемоги <span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" alt="🇺🇦" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><figure class="is-loaded"><img loading="lazy"  src="https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f1fa_1f1e6.png" alt="🇺🇦" width="16" height="16" loading="lazy" data-is-external-image="true" data-is-external-image="true"></figure></span></div>
 <div dir="auto"> </div>
 <div dir="auto">- Olga Yevstignyeyeva</div>
-</div>
-</div>
-</div>
-</div>
-<p> </p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/316833380_5567715700011906_3014713569325112067_n.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/316833380_5567715700011906_3014713569325112067_n-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/316955135_5567715453345264_3500608549901394125_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/316955135_5567715453345264_3500608549901394125_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317453704_5567715913345218_1267896231433570533_n.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317453704_5567715913345218_1267896231433570533_n-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317835587_5567715540011922_6809272907829115006_n.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317835587_5567715540011922_6809272907829115006_n-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317849785_5567715286678614_516763841178512167_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/317849785_5567715286678614_516763841178512167_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/318065527_5567715813345228_8764038862312343380_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/318065527_5567715813345228_8764038862312343380_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/318142495_5567715620011914_5628113029586124307_n.jpg" data-size="1183x959"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/26//gallery/318142495_5567715620011914_5628113029586124307_n-thumbnail.jpg" alt="" width="768" height="623"></a></figure>
+<div dir="auto"> </div>
+<div dir="auto">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316833380_5567715700011906_3014713569325112067_n.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316833380_5567715700011906_3014713569325112067_n-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316833380_5567715700011906_3014713569325112067_n-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316833380_5567715700011906_3014713569325112067_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316955135_5567715453345264_3500608549901394125_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316955135_5567715453345264_3500608549901394125_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316955135_5567715453345264_3500608549901394125_n-thumbnail-2.jpg" data-size="768x768"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/316955135_5567715453345264_3500608549901394125_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317453704_5567715913345218_1267896231433570533_n.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317453704_5567715913345218_1267896231433570533_n-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317453704_5567715913345218_1267896231433570533_n-thumbnail-2.jpg" data-size="768x1024"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317453704_5567715913345218_1267896231433570533_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317835587_5567715540011922_6809272907829115006_n.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317835587_5567715540011922_6809272907829115006_n-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317835587_5567715540011922_6809272907829115006_n-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317835587_5567715540011922_6809272907829115006_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317849785_5567715286678614_516763841178512167_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317849785_5567715286678614_516763841178512167_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317849785_5567715286678614_516763841178512167_n-thumbnail-2.jpg" data-size="768x768"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/317849785_5567715286678614_516763841178512167_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318065527_5567715813345228_8764038862312343380_n.jpg" data-size="1600x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318065527_5567715813345228_8764038862312343380_n-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318065527_5567715813345228_8764038862312343380_n-thumbnail-2.jpg" data-size="768x768"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318065527_5567715813345228_8764038862312343380_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318142495_5567715620011914_5628113029586124307_n.jpg" data-size="1183x959"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318142495_5567715620011914_5628113029586124307_n-thumbnail.jpg" alt="" width="768" height="623"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318142495_5567715620011914_5628113029586124307_n-thumbnail-2.jpg" data-size="768x623"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/25/gallery/318142495_5567715620011914_5628113029586124307_n-thumbnail-2-thumbnail.jpg" alt="" width="768" height="623"></a></figure>
 </div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -145,19 +157,21 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/falamos-com-os-refugiados-no-cefas.html"/>
         <id>https://igorvel0so.github.io/MJPU/falamos-com-os-refugiados-no-cefas.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/24/317586666_945771686397417_3572870226733032107_n.jpg" medium="image" />
             <category term="Ucrania"/>
             <category term="Notícias"/>
+            <category term="Eventos"/>
 
-        <updated>2023-01-01T18:49:44+00:00</updated>
+        <updated>2023-02-08T21:32:04+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/25/317586666_945771686397417_3572870226733032107_n.jpg" alt="" />
-                     No passado dia 1 de Dezembro Ucranianos e voluntários juntaram-se no Auditório CEFAS para esclarecerem dúvidas e prestar apoio jurídico e psicossocial aos refugiados Ucranianos de várias zonas do país. Honraram-nos com sua presença o Dr. António Manuel Duarte Ferrão, Assessor Jurídico da AUP,&hellip;
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/24/317586666_945771686397417_3572870226733032107_n.jpg" alt="" />
+                    No passado dia 1 de Dezembro Ucranianos e voluntários juntaram-se no Auditório CEFAS para esclarecerem dúvidas e prestar apoio jurídico e psicossocial aos refugiados Ucranianos de várias zonas do país. Honraram-nos com sua presença o Dr. António Manuel Duarte Ferrão, Assessor Jurídico da AUP, que&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/25/317586666_945771686397417_3572870226733032107_n.jpg" alt="" />
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/24/317586666_945771686397417_3572870226733032107_n.jpg" class="type:primaryImage" alt="" /></p>
                 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xdj266r x126k92a">
 <div dir="auto">No passado dia 1 de Dezembro Ucranianos e voluntários juntaram-se no Auditório CEFAS para esclarecerem dúvidas e prestar apoio jurídico e psicossocial aos refugiados Ucranianos de várias zonas do país.</div>
 <div dir="auto"> </div>
@@ -196,7 +210,7 @@
 <div dir="auto"> </div>
 <div dir="auto">- Nadya Umanska</div>
 <div dir="auto"> </div>
-<div dir="auto"><figure class="post__image post__image--center"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/25/317869121_525697056107351_5906248294760317880_n.jpg" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-xs.jpg 300w ,https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-sm.jpg 480w ,https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-md.jpg 768w ,https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-lg.jpg 1024w ,https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-xl.jpg 1360w ,https://igorvel0so.github.io/MJPU/media/posts/25/responsive/317869121_525697056107351_5906248294760317880_n-2xl.jpg 1600w"  alt="" width="1301" height="1734"></figure></div>
+<div dir="auto"><figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/24/317869121_525697056107351_5906248294760317880_n.jpg" alt="" width="1301" height="1734" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-xs.jpg 300w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-sm.jpg 480w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-md.jpg 768w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-lg.jpg 1024w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-xl.jpg 1360w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/317869121_525697056107351_5906248294760317880_n-2xl.jpg 1600w"></figure></div>
 </div>
 </div>
 </div>
@@ -211,24 +225,25 @@
         <author>
             <name>MJPU</name>
         </author>
-        <link href="https://igorvel0so.github.io/MJPU/vamos-falar-com-os-refugiados-2.html"/>
-        <id>https://igorvel0so.github.io/MJPU/vamos-falar-com-os-refugiados-2.html</id>
+        <link href="https://igorvel0so.github.io/MJPU/vamos-falar-com-os-refugiados.html"/>
+        <id>https://igorvel0so.github.io/MJPU/vamos-falar-com-os-refugiados.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/23/Cartaz-1-de-Dezembro-2.png" medium="image" />
             <category term="Ucrania"/>
+            <category term="Notícias"/>
             <category term="Eventos"/>
 
-        <updated>2022-12-03T23:46:57+00:00</updated>
+        <updated>2023-02-08T21:30:21+00:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/24/Cartaz-1-de-Dezembro.png" alt="" />
-                     No âmbito do “Movimento Juntos pela Ucrânia”, criado por voluntários com o objetivo de apoiar o povo ucraniano, em colaboração da Subdelegação de Águeda da AUP, da Paróquia de Águeda e da Câmara Municipal de Águeda, irá realizar-se no próximo dia 1 de Dezembro&hellip;
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/23/Cartaz-1-de-Dezembro-2.png" alt="" />
+                    No âmbito do “Movimento Juntos pela Ucrânia”, criado por voluntários com o objetivo de apoiar o povo ucraniano, em colaboração da Subdelegação de Águeda da AUP, da Paróquia de Águeda e da Câmara Municipal de Águeda, irá realizar-se no próximo dia 1 de Dezembro (quinta-feira)&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/24/Cartaz-1-de-Dezembro.png" alt="" />
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/23/Cartaz-1-de-Dezembro-2.png" class="type:primaryImage" alt="" /></p>
                 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xdj266r x126k92a">
-<div dir="auto"><figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/24/Cartaz-1-de-Dezembro-2.png" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/24/responsive/Cartaz-1-de-Dezembro-2-2xl.png 1600w"  alt="" width="2480" height="3508"></figure></div>
-<div dir="auto"> </div>
+<div dir="auto"><figure class="post__image"><img loading="lazy"  src="https://igorvel0so.github.io/MJPU/media/posts/23/Cartaz-1-de-Dezembro.png" alt="" width="2480" height="3508" sizes="(max-width: 48em) 100vw, 768px" srcset="https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-xs.png 300w ,https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-sm.png 480w ,https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-md.png 768w ,https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-lg.png 1024w ,https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-xl.png 1360w ,https://igorvel0so.github.io/MJPU/media/posts/23/responsive/Cartaz-1-de-Dezembro-2xl.png 1600w"></figure></div>
 <div dir="auto">No âmbito do “Movimento Juntos pela Ucrânia”, criado por voluntários com o objetivo de apoiar o povo ucraniano, em colaboração da <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm" href="https://www.facebook.com/subdelegacaoaguedaAUP?__cft__[0]=AZV_iD46VksgF6FJO1WiC94QNV9O5aD4bQg5q6B2QNz1xZmuD2S18s5RGcDait9qR2afnxkP0qHmic6hgBFUqF1QR1T34us-1qIQ9i0bDw02gbYwifeXfD6QRGp-rnWBHaGHcijwmT0xWehEFAMdUqit1nYESMaSOYWDlp7RSFjyyw21CYBvz6R6Ne6tCOeyrghXIiUFZFh0wXvQicv5avHt&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="xt0psk2">Subdelegação de Águeda da AUP</span></a>, da <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm" href="https://www.facebook.com/paroquiadeagueda?__cft__[0]=AZV_iD46VksgF6FJO1WiC94QNV9O5aD4bQg5q6B2QNz1xZmuD2S18s5RGcDait9qR2afnxkP0qHmic6hgBFUqF1QR1T34us-1qIQ9i0bDw02gbYwifeXfD6QRGp-rnWBHaGHcijwmT0xWehEFAMdUqit1nYESMaSOYWDlp7RSFjyyw21CYBvz6R6Ne6tCOeyrghXIiUFZFh0wXvQicv5avHt&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="xt0psk2">Paróquia de Águeda</span></a> e da <a class="x1i10hfl xjbqb8w x6umtig x1b1mbwd xaqea5y xav7gou x9f619 x1ypdohk xt0psk2 xe8uvvx xdj266r x11i5rnm xat24cr x1mh8g0r xexx8yu x4uap5 x18d9i69 xkhd6sd x16tdsg8 x1hl2dhg xggy1nq x1a2a7pz xt0b8zv x1qq9wsj xo1l8bm" href="https://www.facebook.com/C%C3%A2mara-Municipal-de-%C3%81gueda-208234799204596/?__cft__[0]=AZV_iD46VksgF6FJO1WiC94QNV9O5aD4bQg5q6B2QNz1xZmuD2S18s5RGcDait9qR2afnxkP0qHmic6hgBFUqF1QR1T34us-1qIQ9i0bDw02gbYwifeXfD6QRGp-rnWBHaGHcijwmT0xWehEFAMdUqit1nYESMaSOYWDlp7RSFjyyw21CYBvz6R6Ne6tCOeyrghXIiUFZFh0wXvQicv5avHt&amp;__tn__=kK-R" role="link" tabindex="0"><span class="xt0psk2">Câmara Municipal de Águeda</span></a>, irá realizar-se no próximo dia 1 de Dezembro (quinta-feira) um evento dirigido aos refugiados do Concelho.</div>
 <div dir="auto"> </div>
 </div>
@@ -251,8 +266,6 @@
 <div class="x11i5rnm xat24cr x1mh8g0r x1vvkbs xtlvy1s x126k92a">
 <div dir="auto">Qualquer questão ou esclarecimento adicional:</div>
 <div dir="auto">Nadya Umanska (AUP) – 969 609 831</div>
-<div dir="auto"> </div>
-<div dir="auto"> </div>
 </div>
             ]]>
         </content>
@@ -264,11 +277,12 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/testemunho-balanco-do-mjpu.html"/>
         <id>https://igorvel0so.github.io/MJPU/testemunho-balanco-do-mjpu.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/22/309115961_139183988852194_4194730104752582803_n.jpg" medium="image" />
             <category term="Ucrania"/>
-            <category term="Relatórios e Reports"/>
             <category term="Notícias"/>
+            <category term="Donativos"/>
 
-        <updated>2022-12-03T23:46:53+00:00</updated>
+        <updated>2023-02-08T21:27:56+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/22/309115961_139183988852194_4194730104752582803_n.jpg" alt="" />
@@ -277,13 +291,15 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/22/309115961_139183988852194_4194730104752582803_n.jpg" alt="" />
-                <p><em>Este artigo foi publicado no dia 12 de Outubro de 2022 no Jornal Soberania do Povo, na Tribuna do Povo.</em></p>
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/22/309115961_139183988852194_4194730104752582803_n.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__entry u-inner">
+<p><em>Este artigo foi publicado no dia 12 de Outubro de 2022 no Jornal Soberania do Povo, na Tribuna do Povo.</em></p>
 <p>O Movimento Juntos Pela Ucrânia nasceu espontaneamente com a solidariedade de cidadãos de Águeda e Albergaria-a-Velha para com o povo Ucraniano, que teve a sua nação invadida pela Rússia a 24 de Fevereiro deste ano, deslocando milhões e criando uma nova crise humanitária na Europa. Apesar de mencionar estes dois concelhos, o apoio estende-se ao Porto, à Polónia e aos nossos colaboradores na Ucrânia.</p>
 <p>Pessoalmente fiquei feliz com a disponibilidade de todos, não só dos que estão na equipa, mas também a todos que doaram bens, acessórios e ferramentas. Até uma ambulância doada pelos Bombeiros Voluntários de Águeda está neste momento na fronteira a ser entregue aos defensores da democracia na Europa - as Forças Armadas Ucranianas.</p>
 <p>O trabalho continua: ainda existe um relatório a apresentar, confirmação de entrega e distribuição de mais bens, e um inverno debilitador no corpo e nos recursos de cada pessoa. Mas após quatro camiões e mais de sessenta toneladas enviadas, é merecido o tempo para refletir e tomar nota de todas as lições aprendidas, especialmente no desenrolar da logística local. A paletização foi cada vez mais rápida e eficiente, a planificação mais ordenada e confiante, e o carregamento da galera tornou-se quase automático. Isto deve-se também ao trabalho voluntário de gente profissional e<br>especializada que partilhava tarefas com os apaixonados pela causa. Alguma modernização de todo o processo foi importante, inclusive a criação de redes sociais e um website para que colaboradores e voluntários permanecessem a par das atividades e resultados do Movimento. Além da boa vontade e sacrifício, transparência e confiança são chave no sucesso de grupos humanitários, logo foi desde início imperativo o feedback.</p>
 <p>A solidariedade não ficou pelos Ucranianos. A MJPU também teve colaboração do Património dosPobres e Conferência Vincentina, entre outros, prestando assim apoio aos mais necessitados e imigrantes no concelho. A ajuda que nos chegava era enorme, e muitos bens foram entregues a refugiados e a todos os que nos pediam ajuda para aliviar a tensão e dificuldades em casa – roupa, comida, brinquedos para as crianças. Como é claro seriam sempre acompanhados com a devida monitorização e segurança, em colaboração com o CLAIM e IPSS’s. O foco na missão original do Movimento nunca nos fez esquecer que em Águeda também existem pobres e desafortunados que sofrem, mesmo estando a milhares de quilómetros de uma guerra que só veio piorar as condições económicas dos mais vulneráveis na população Europeia. O mínimo que podíamos fazer era ajudar de volta a população que nos acolheu.</p>
 <p>A invasão Russa quebrou os mais de 80 anos de paz que a Europa usufruiu, iniciando uma nova era na história da região e do mundo. O MJPU fica igualmente na recente história dos concelhos e na memória daqueles que nele colaboram. Desejo que este espírito empático não esmoreça e que continuemos a enfrentar as dificuldades como comunidade, pela liberdade e amor ao próximo.<br><br>Igor Veloso<br>Voluntário Movimento Juntos Pela Ucrânia</p>
+</div>
             ]]>
         </content>
     </entry>
@@ -294,21 +310,82 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/plataforma-associativa-or-episodio-17-or-28-setembro-2022.html"/>
         <id>https://igorvel0so.github.io/MJPU/plataforma-associativa-or-episodio-17-or-28-setembro-2022.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/21/12605350720313429707.jpg" medium="image" />
             <category term="Ucrania"/>
-            <category term="Relatórios e Reports"/>
+            <category term="Notícias"/>
 
-        <updated>2022-11-29T22:11:57+00:00</updated>
+        <updated>2023-02-08T21:28:05+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/21/12605350720313429707.jpg" alt="" />
-                     Neste episódio contamos com a presença da Subdelegação de Águeda da Associação dos Ucranianos em Portugal.
+                    Neste episódio contamos com a presença da Subdelegação de Águeda da Associação dos Ucranianos em Portugal.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/21/12605350720313429707.jpg" alt="" />
-                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/ZF8PaXIoD8k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe></div>
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/21/12605350720313429707.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/ZF8PaXIoD8k" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p> </p>
 <p><span class="yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap" role="text">Neste episódio contamos com a presença da Subdelegação de Águeda da Associação dos Ucranianos em Portugal.</span></p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Ambulância chega à Polónia</title>
+        <author>
+            <name>MJPU</name>
+        </author>
+        <link href="https://igorvel0so.github.io/MJPU/ambulancia-chega-a-polonia.html"/>
+        <id>https://igorvel0so.github.io/MJPU/ambulancia-chega-a-polonia.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/19/IMG-20220913-WA0012.jpg" medium="image" />
+            <category term="Ucrania"/>
+            <category term="Notícias"/>
+            <category term="Donativos"/>
+
+        <updated>2023-02-08T21:21:57+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://igorvel0so.github.io/MJPU/media/posts/19/IMG-20220913-WA0012.jpg" alt="" />
+                    O José Miguel da Transportes Carvel, que foi a chave no transporte de ajuda humanitária do quarto camião, nos auxiliou mais uma vez na entrega, esta noite, da ambulância doada pelos Bombeiros de Águeda / Águeda Fire Department - Portugal! Os nossos contactos estiveram presentes&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/19/IMG-20220913-WA0012.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
+<div dir="auto">O José Miguel da <a class="qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo tes86rjd" href="https://www.facebook.com/TransportesCarvelL?__cft__[0]=AZV7v4DypXIh7wlrjBkoIof3qUIbxWmU6i11yoeEF7EzVcp95DUodKrzvjFS_-MiSSqZPZqfnRL2PXIoWs5DwnYGI3nLgOoQDmkuUV2wC2o4vnAwYv7ndKsARb4qfQodrfSRYktuvl1t3_HYgkgHnLFWANE-TeU6RgCUIA7842UGnjc6E0M1wqBfNSma-Nxns7C3zw7-DR1Y35tXQ0bh6rar&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="rse6dlih">Transportes Carvel</span></a>, que foi a chave no transporte de ajuda humanitária do quarto camião, nos auxiliou mais uma vez na entrega, esta noite, da ambulância doada pelos <a class="qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo tes86rjd" href="https://www.facebook.com/BombeirosdeAgueda?__cft__[0]=AZV7v4DypXIh7wlrjBkoIof3qUIbxWmU6i11yoeEF7EzVcp95DUodKrzvjFS_-MiSSqZPZqfnRL2PXIoWs5DwnYGI3nLgOoQDmkuUV2wC2o4vnAwYv7ndKsARb4qfQodrfSRYktuvl1t3_HYgkgHnLFWANE-TeU6RgCUIA7842UGnjc6E0M1wqBfNSma-Nxns7C3zw7-DR1Y35tXQ0bh6rar&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="rse6dlih">Bombeiros de Águeda / Águeda Fire Department - Portugal</span></a>! Os nossos contactos estiveram presentes e prestaram auxilio.</div>
+<div dir="auto"> </div>
+<div dir="auto">Neste vídeo assistimos à entrega da ambulância e de doações que nela fora transportadas.</div>
+<div dir="auto"> </div>
+</div>
+<div class="l7ghb35v kjdc1dyq kmwttqpk gh25dzvf jikcssrz n3t5jt4f">
+<div dir="auto">Muito Obrigado!</div>
+<div dir="auto">--</div>
+<div dir="auto">
+<div id="jsc_c_1k3" class="d2hqwtrz r227ecj6 ez8dtbzv gt60zsk1" data-ad-comet-preview="message" data-ad-preview="message">
+<div class="alzwoclg cqf1kptm siwo0mpr gu5uzgus">
+<div class="jroqu855 nthtkgg5">
+<div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
+<div dir="auto">Сьогодні вночі, на польсько-українському кордоні розвантажено автомобіль швидкої допомоги для ЗСУ.</div>
+<div dir="auto">Велика подяка осередку міста Аґеда СУП (Subdelegação de Águeda da Associação dos Ucranianos em Portugal), волонтерам, зокрема Сергій Уманський , механіку Віктору Viktor Yakovets , Консульству України в місті Порту, зокрема Консулу Аліні Олександрівні Alina Ponomarenko за швидке оформлення необхідної документації, португальській та українській громадам міст Аґеда і <a tabindex="-1"></a>Албергарія-а-Веля, Пожежній частині міста Аґеда (Bombeiros Voluntários de Águeda), що подарували транспортний засіб, Transportes CARVEL і, зокрема керівнику, Bruno Oliveira , та шоферу цього транспортного підприємства José Miguel , який вдруге перевозить гуманітарний вантаж до Польщі.</div>
+<div dir="auto">Все буде Україна! - Nadiya Umanska</div>
+<div dir="auto"> </div>
+<div dir="auto">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001-thumbnail-2.jpg" data-size="768x1024"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005-thumbnail-2.jpg" data-size="768x576"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005-thumbnail-2-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010-thumbnail-2.jpg" data-size="768x1024"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
             ]]>
         </content>
     </entry>
@@ -319,20 +396,24 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/mensagem-do-presidente-da-camara-de-agueda.html"/>
         <id>https://igorvel0so.github.io/MJPU/mensagem-do-presidente-da-camara-de-agueda.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/20/IMG-20220517-WA0000.jpg" medium="image" />
+            <category term="Ucrania"/>
             <category term="Notícias"/>
+            <category term="Donativos"/>
 
-        <updated>2022-11-29T22:11:53+00:00</updated>
+        <updated>2023-02-08T21:24:25+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/20/IMG-20220517-WA0000.jpg" alt="" />
-                     Em anexo segue-se um email do Enf. Jorge Almeida, Presidente da Câmara Municipal de Águeda. Deu-nos permissão para partilhar convosco, que nos seguem e fazem parte do movimento em variadas formas e dimensões: "Ex.mos Senhores Depois de mais um processo de preparação das paletes&hellip;
+                    Em anexo segue-se um email do Enf. Jorge Almeida, Presidente da Câmara Municipal de Águeda. Deu-nos permissão para partilhar convosco, que nos seguem e fazem parte do movimento em variadas formas e dimensões: "Ex.mos Senhores Depois de mais um processo de preparação das paletes com&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/20/IMG-20220517-WA0000.jpg" alt="" />
-                <div>
-<div class="" dir="auto">
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/20/IMG-20220517-WA0000.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="post__entry u-inner">
+<div>
+<div dir="auto">
 <div id="jsc_c_1j" class="d2hqwtrz r227ecj6 ez8dtbzv gt60zsk1" data-ad-comet-preview="message" data-ad-preview="message">
 <div class="alzwoclg cqf1kptm siwo0mpr gu5uzgus">
 <div class="jroqu855 nthtkgg5">
@@ -368,60 +449,6 @@
 </div>
 </div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Ambulância chega à Polónia</title>
-        <author>
-            <name>MJPU</name>
-        </author>
-        <link href="https://igorvel0so.github.io/MJPU/ambulancia-entregue-na-ucrania.html"/>
-        <id>https://igorvel0so.github.io/MJPU/ambulancia-entregue-na-ucrania.html</id>
-            <category term="Ucrania"/>
-            <category term="Notícias"/>
-            <category term="Donativos"/>
-
-        <updated>2022-10-19T15:06:59+01:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://igorvel0so.github.io/MJPU/media/posts/19/IMG-20220913-WA0012.jpg" alt="" />
-                     O José Miguel da Transportes Carvel, que foi a chave no transporte de ajuda humanitária do quarto camião, nos auxiliou mais uma vez na entrega, esta noite, da ambulância doada pelos Bombeiros de Águeda / Águeda Fire Department - Portugal! Os nossos contactos estiveram&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/19/IMG-20220913-WA0012.jpg" alt="" />
-                <div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
-<div dir="auto">O José Miguel da <a class="qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo tes86rjd" href="https://www.facebook.com/TransportesCarvelL?__cft__[0]=AZV7v4DypXIh7wlrjBkoIof3qUIbxWmU6i11yoeEF7EzVcp95DUodKrzvjFS_-MiSSqZPZqfnRL2PXIoWs5DwnYGI3nLgOoQDmkuUV2wC2o4vnAwYv7ndKsARb4qfQodrfSRYktuvl1t3_HYgkgHnLFWANE-TeU6RgCUIA7842UGnjc6E0M1wqBfNSma-Nxns7C3zw7-DR1Y35tXQ0bh6rar&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="rse6dlih">Transportes Carvel</span></a>, que foi a chave no transporte de ajuda humanitária do quarto camião, nos auxiliou mais uma vez na entrega, esta noite, da ambulância doada pelos <a class="qi72231t nu7423ey n3hqoq4p r86q59rh b3qcqh3k fq87ekyn bdao358l fsf7x5fv rse6dlih s5oniofx m8h3af8h l7ghb35v kjdc1dyq kmwttqpk srn514ro oxkhqvkx rl78xhln nch0832m cr00lzj9 rn8ck1ys s3jn8y49 icdlwmnq cxfqmxzd d1w2l3lo tes86rjd" href="https://www.facebook.com/BombeirosdeAgueda?__cft__[0]=AZV7v4DypXIh7wlrjBkoIof3qUIbxWmU6i11yoeEF7EzVcp95DUodKrzvjFS_-MiSSqZPZqfnRL2PXIoWs5DwnYGI3nLgOoQDmkuUV2wC2o4vnAwYv7ndKsARb4qfQodrfSRYktuvl1t3_HYgkgHnLFWANE-TeU6RgCUIA7842UGnjc6E0M1wqBfNSma-Nxns7C3zw7-DR1Y35tXQ0bh6rar&amp;__tn__=-]K-R" role="link" tabindex="0"><span class="rse6dlih">Bombeiros de Águeda / Águeda Fire Department - Portugal</span></a>! Os nossos contactos estiveram presentes e prestaram auxilio.</div>
-<div dir="auto"> </div>
-<div dir="auto">Neste vídeo assistimos à entrega da ambulância e de doações que nela fora transportadas.</div>
-<div dir="auto"> </div>
-</div>
-<div class="l7ghb35v kjdc1dyq kmwttqpk gh25dzvf jikcssrz n3t5jt4f">
-<div dir="auto">Muito Obrigado!</div>
-<div dir="auto">--</div>
-<div dir="auto">
-<div id="jsc_c_1k3" class="d2hqwtrz r227ecj6 ez8dtbzv gt60zsk1" data-ad-comet-preview="message" data-ad-preview="message">
-<div class="alzwoclg cqf1kptm siwo0mpr gu5uzgus">
-<div class="jroqu855 nthtkgg5">
-<div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
-<div dir="auto">Сьогодні вночі, на польсько-українському кордоні розвантажено автомобіль швидкої допомоги для ЗСУ.</div>
-<div dir="auto">Велика подяка осередку міста Аґеда СУП (Subdelegação de Águeda da Associação dos Ucranianos em Portugal), волонтерам, зокрема Сергій Уманський , механіку Віктору Viktor Yakovets , Консульству України в місті Порту, зокрема Консулу Аліні Олександрівні Alina Ponomarenko за швидке оформлення необхідної документації, португальській та українській громадам міст Аґеда і <a tabindex="-1"></a>Албергарія-а-Веля, Пожежній частині міста Аґеда (Bombeiros Voluntários de Águeda), що подарували транспортний засіб, Transportes CARVEL і, зокрема керівнику, Bruno Oliveira , та шоферу цього транспортного підприємства José Miguel , який вдруге перевозить гуманітарний вантаж до Польщі.</div>
-<div dir="auto">Все буде Україна! - Nadiya Umanska</div>
-<div dir="auto"> </div>
-<div dir="auto">
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0001-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005.jpg" data-size="1600x1200"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0005-thumbnail.jpg" alt="" width="768" height="576"></a></figure>
-<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010.jpg" data-size="1200x1600"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/19/gallery/IMG-20220913-WA0010-thumbnail.jpg" alt="" width="768" height="1024"></a></figure>
-</div></div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
 </div>
             ]]>
         </content>
@@ -433,25 +460,22 @@
         </author>
         <link href="https://igorvel0so.github.io/MJPU/ambulancia-segue-para-a-ucrania.html"/>
         <id>https://igorvel0so.github.io/MJPU/ambulancia-segue-para-a-ucrania.html</id>
+        <media:content url="https://igorvel0so.github.io/MJPU/media/posts/18/IMG-20220904-WA0017.jpg" medium="image" />
             <category term="Ucrania"/>
             <category term="Notícias"/>
             <category term="Donativos"/>
 
-        <updated>2022-09-16T18:25:09+01:00</updated>
+        <updated>2023-02-08T21:19:56+00:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://igorvel0so.github.io/MJPU/media/posts/18/IMG-20220904-WA0017.jpg" alt="" />
-                     A ajuda humanitária para a Ucrânia toma várias formas e dimensões! Finalmente acaba o trajeto da ambulância doada pelos nossos queridos Bombeiros de Águeda / Águeda Fire Department - Portugal! Durante semanas realizaram-se reparações necessárias neste veículo para poder seguir viagem, e fazer uso&hellip;
+                    A ajuda humanitária para a Ucrânia toma várias formas e dimensões! Finalmente acaba o trajeto da ambulância doada pelos nossos queridos Bombeiros de Águeda / Águeda Fire Department - Portugal! Durante semanas realizaram-se reparações necessárias neste veículo para poder seguir viagem, e fazer uso da&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://igorvel0so.github.io/MJPU/media/posts/18/IMG-20220904-WA0017.jpg" alt="" />
-                <div class="" dir="auto">
-<div id="jsc_c_b9" class="d2hqwtrz r227ecj6 ez8dtbzv gt60zsk1" data-ad-comet-preview="message" data-ad-preview="message">
-<div class="alzwoclg cqf1kptm siwo0mpr gu5uzgus">
-<div class="jroqu855 nthtkgg5">
-<div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
+                    <p><img src="https://igorvel0so.github.io/MJPU/media/posts/18/IMG-20220904-WA0017.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="m8h3af8h l7ghb35v kjdc1dyq kmwttqpk gh25dzvf n3t5jt4f">
 <div dir="auto">A ajuda humanitária para a Ucrânia toma várias formas e dimensões!</div>
 </div>
 <div class="l7ghb35v kjdc1dyq kmwttqpk gh25dzvf jikcssrz n3t5jt4f">
@@ -471,15 +495,14 @@
 <div dir="auto">You’re all incredible!</div>
 <div dir="auto"> </div>
 <div dir="auto">
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="2">
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0018.jpg" data-size="1232x1640"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0018-thumbnail.jpg" alt="" width="768" height="1022"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0018-thumbnail-2.jpg" data-size="768x1022"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0018-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1022"></a></figure>
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0020.jpg" data-size="1537x2048"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0020-thumbnail.jpg" alt="" width="768" height="1023"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0020-thumbnail-2.jpg" data-size="768x1023"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0020-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1023"></a></figure>
 <figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0021.jpg" data-size="1232x1640"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0021-thumbnail.jpg" alt="" width="768" height="1022"></a></figure>
+<figure class="gallery__item"><a href="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0021-thumbnail-2.jpg" data-size="768x1022"><img loading="lazy" src="https://igorvel0so.github.io/MJPU/media/posts/18/gallery/IMG-20220904-WA0021-thumbnail-2-thumbnail.jpg" alt="" width="768" height="1022"></a></figure>
 </div></div>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
             ]]>
